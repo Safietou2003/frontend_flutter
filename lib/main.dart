@@ -60,7 +60,7 @@ class SplashContent extends StatelessWidget {
       backgroundColor: const Color(0xFF462A1D),
       body: Center(
         child: Image.asset(
-          'assets/logo/ism_logo.png',
+          'assets/logo.png',
           width: 150,
         ),
       ),
